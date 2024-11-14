@@ -1,0 +1,4 @@
+.venv/
+.idea/
+.env
+chat_app.ipynb
